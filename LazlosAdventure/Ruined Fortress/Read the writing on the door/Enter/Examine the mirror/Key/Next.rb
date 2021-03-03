@@ -10,7 +10,7 @@ if choice == "1"
   puts f.read
   require "./Move.rb"
 elsif choice == "2"
-  Dir.chdir("/home/runner")
+  Dir.chdir("../../../../../")
   f = File.open("endFortress.txt", "r")
   puts f.read
   Dir.chdir("Troll")

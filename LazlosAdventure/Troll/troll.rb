@@ -33,18 +33,18 @@ end
 
 if $player1.health > 0
   $player1.addPower(5)
-  f = File.open("/home/runner/Troll/win.txt", "r")
+  f = File.open("win.txt", "r")
   puts f.read
   choice = gets
   choice = choice.chomp
   if choice == "1"
-    Dir.chdir("/home/runner/Troll/Continue")
+    Dir.chdir("Continue")
     f = File.open("continue.txt", "r")
     puts f.read
     $player1.addPower(10)
     require "./continue.rb"
   elsif choice == "2"
-    f = File.open("/home/runner/Troll/Leave.txt", "r")
+    f = File.open("Leave.txt", "r")
     puts f.read
   end
 else

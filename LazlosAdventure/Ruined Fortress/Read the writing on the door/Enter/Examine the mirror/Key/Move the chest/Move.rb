@@ -6,7 +6,7 @@ if choice == "1"
   f = File.open("Reach.txt", "r")
   puts f.read
   require "./Reach.rb"
-  Dir.chdir("/home/runner")
+  Dir.chdir("../../../../../../")
   g = File.open("endFortress.txt", "r")
   puts g.read
   Dir.chdir("Troll")
@@ -14,7 +14,7 @@ if choice == "1"
   puts h.read
   require "./troll.rb"
 elsif choice == "2"
-  Dir.chdir("/home/runner")
+  Dir.chdir("../../../../../../")
   g = File.open("endFortress.txt", "r")
   puts g.read
   Dir.chdir("Troll")

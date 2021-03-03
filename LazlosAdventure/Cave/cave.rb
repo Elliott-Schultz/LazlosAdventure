@@ -1,4 +1,4 @@
-f = File.open("/home/runner/Cave/cave.txt", "r")
+f = File.open("cave.txt", "r")
 puts f.read
 
 choice = gets
@@ -10,7 +10,7 @@ if choice == "1"
   puts g.read
   require "./enter.rb"
 elsif choice == "2"
-  Dir.chdir("/home/runner/Grakor's Lair")
+  Dir.chdir("../Grakor's Lair")
   g = File.open("enterLair.txt", "r")
   puts g.read
   require "./enterLair.rb"

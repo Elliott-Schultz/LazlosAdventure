@@ -21,7 +21,7 @@ if choice == "1" or choice == "2" or choice == "3"
 end
 
 if choice == "Leave the fortress"
-  Dir.chdir("/home/runner")
+  Dir.chdir("../../")
   j = File.open("endFortress.txt", "r")
   puts j.read
 end

@@ -11,9 +11,9 @@ end
 
 startGame
 
-require "/home/runner/PlayerClass.rb"
-require "/home/runner/trollClass.rb"
-require "/home/runner/dragonClass.rb"
+require "../LazlosAdventure/PlayerClass.rb"
+require "../LazlosAdventure/trollClass.rb"
+require "../LazlosAdventure/dragonClass.rb"
 
 choice = gets
 choice = choice.chomp
