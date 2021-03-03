@@ -1,0 +1,7 @@
+
+As you exit the room, you see the mirror there on the wall.
+
+What do you choose to do?
+1. Examine the mirror
+2. Open the door left of the entrance
+3. Open the door right of the entrance

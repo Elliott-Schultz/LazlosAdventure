@@ -1,0 +1,5 @@
+
+You now have the key. You have only inspected the two rooms branching off from the room you are in now. You should probably check out the mirror.
+
+What do you do?
+1. Examine the mirror

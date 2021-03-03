@@ -1,0 +1,6 @@
+
+You walk over the door right of the entrance, and open it. Inside of the room, you see a small table standing in the center. On top of the table there is locked box. You walk over to the box and examine the lock. On the lock there are five rotatable dials, with letters on them, and a button. You assume that you push the button to finalize your answer.
+
+There is nothing else in the room. What do you choose to do?
+1. Leave
+2. Enter the passcode

@@ -1,0 +1,10 @@
+
+You begin to run through the crowded streets toward the town-square where the library is located.
+You soon spot the library and run towards it. Once you reach the building, you push open its large double doors and enter the library. The inside of the library is breathtaking. It has multiple floors, each ornately decorated with gold furniture and foliage and a large glass-dome ceiling that redirects sunlight perfectly around the interior of the library in order to keep from having glare and to redirect light to specific reading nooks throughout the library.
+You walk over to the main desk where the librarian asks for your library card. Luckily for you, your mother often sends you to the library for cook-books or books filled with fantastical stories, to read to your younger siblings, so she deemed it necessary for you to have a library card.
+Your library card is nothing fancy. It has your name, birth-date, identification number on it and its access level allows you to read and check out books from anywhere on the first floor. You hand over the library card and the librarian looks at the identification number, then at you, then back at your identification number, then hands the library card back to you and gestures toward to first floor to show that you are permitted to enter.
+You head over to the section on town history and pick up a book titled, "A Brief History of Champions Past". You then head over to the section on basic magic and pick up a book titled, "Enchantments and Spells: 101". After collecting your books, you walk over to the nearest reading nook and sit down on at a desk, which has a piece of glass above it to catch the beams of sunlight coming in through the ceiling and scatter them to better light the desk.
+
+You may now choose to read either:
+1. A Brief History of Champions Past
+2. Enchantments and Spells: 101

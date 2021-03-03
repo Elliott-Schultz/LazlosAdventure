@@ -1,0 +1,10 @@
+
+You continue into the cave, where you find a room filled with gold and skeletons, causing you to be both happy and horrified. You start rummaging through the items where you find multiple items of interest. First, you find a sword, which has a black blade and a red and gold hilt. You also find two potions filled with a red liquid. The bottle containing the elixir has a white plus sign on it, which is standard for potions that heal the user. The last thing you find is a large, golden chest. There is a lock keeping the chest sealed and there is writing on the top of the chest. Reading the text reveals that the chest requires you to answer a riddle and then press the button on the lock to unlock the chest. The riddle reads thus:
+
+That we love more than life,
+Fear more than death,
+The rich want it,
+The poor have it,
+And the miser spends it.
+
+What is your answer?
